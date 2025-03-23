@@ -1,0 +1,4 @@
+mcp
+httpx
+beautifulsoup4
+pydantic 

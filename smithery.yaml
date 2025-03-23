@@ -1,8 +1,0 @@
-version: 1
-name: OpenAI Agents Documentation MCP
-description: A Model Context Protocol server providing access to OpenAI Agents SDK documentation and GitHub repository
-entrypoint: python openai_agents_server.py
-environment:
-  - python=3.12
-dependencies:
-  - requirements.txt
